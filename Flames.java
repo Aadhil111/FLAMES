@@ -1,4 +1,3 @@
-import java.sql.SQLOutput;
 import java.util.Scanner;
 public class Flames {
     public static void main(String[] args) {
@@ -61,3 +60,4 @@ public class Flames {
     }
 
 }
+
